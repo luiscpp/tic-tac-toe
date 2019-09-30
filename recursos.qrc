@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>o.png</file>
+        <file>inicio.png</file>
+        <file>fondoJuego.png</file>
+        <file>x.png</file>
+    </qresource>
+</RCC>
